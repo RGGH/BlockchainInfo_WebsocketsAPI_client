@@ -8,3 +8,5 @@ register for API key : https://www.blockchain.com/explorer
     # pip install websocket-client
 
 ![btcgif.gif](https://github.com/RGGH/BlockchainInfo_WebsocketsAPI_client/blob/main/btcgif.gif)
+---
+![btc_pi.png](https://github.com/RGGH/BlockchainInfo_WebsocketsAPI_client/blob/main/btc_pi.png)
