@@ -9,4 +9,5 @@ register for API key : https://www.blockchain.com/explorer
 
 ![btcgif.gif](https://github.com/RGGH/BlockchainInfo_WebsocketsAPI_client/blob/main/btcgif.gif)
 ---
+##### Runs on Raspberry Pi
 ![btc_pi.png](https://github.com/RGGH/BlockchainInfo_WebsocketsAPI_client/blob/main/btc_pi.png)
