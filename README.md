@@ -1,2 +1,2 @@
 # BlockchainInfo_WebsocketsAPI_client
-![btcgif.gif](https://assets.digitalocean.com/articles/alligator/boo.svg)
+![btcgif.gif](https://github.com/RGGH/BlockchainInfo_WebsocketsAPI_client/blob/main/btcgif.gif)
